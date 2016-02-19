@@ -1,0 +1,102 @@
+disk initialized
+ValueError
+f created
+e created
+f opened 1
+
+137 bytes written
+
+5 bytes written
+50 bytes written
+ValueError
+f e
+1 bytes written
+e opened 2
+142 bytes written
+position is 58
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+1 bytes written
+f e
+f e
+a created
+a destroyed
+1 bytes written
+ValueError
+o created
+50 bytes written
+position is 67
+16 bytes written
+l created
+37 bytes written
+ValueError
+l opened 3
+
+n
+21 bytes written
+position is 43
+n
+1 bytes written
+
+n created
+52 bytes written
+1 closed
+position is 108
+f e o l n
+2 closed
+FileAlreadyExistsException
+
+f opened 1
+ValueError
+18 bytes written
+1 closed
+146 bytes written
+o opened 1
+
+
+139 bytes written
+1 closed
+f opened 1
+position is 144
+position is 153
+
+1 closed
+28 bytes written
+1 bytes written
+ValueError
+e opened 1
+f opened 2
+f destroyed
+position is 146
+n opened 2
+
+3 closed
+2 closed
+o opened 2
+c created
+b created
+48 bytes written
+1 closed
+d created
+21 bytes written
+position is 31
+d destroyed
+73 bytes written
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+FileAlreadyExistsException
+
+ValueError
+b opened 1
+position is 46
+2 closed
+1 closed
+i created
+l opened 1
+e opened 2
+j created
+ValueError
+c e o l n b i j
+1 closed
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuucc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnny
+f created
+disk saved

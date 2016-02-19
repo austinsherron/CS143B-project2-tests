@@ -1,0 +1,102 @@
+in
+sk 1 56
+cr f
+cr e
+op f
+rd 1 86
+wr 1 d 137
+rd 1 200
+wr 1 i 5
+wr 1 l 143
+sk 1 196
+dr
+wr 1 f 29
+op e
+wr 2 c 142
+sk 2 58
+rd 2 120
+wr 1 w 89
+dr
+dr
+cr a
+de a
+wr 1 r 147
+sk 1 196
+cr o
+wr 2 n 197
+sk 1 67
+wr 1 z 16
+cr l
+wr 1 x 37
+wr 3 n 11
+op l
+rd 3 175
+rd 2 85
+wr 1 x 21
+sk 1 43
+rd 2 65
+wr 2 y 10
+rd 3 177
+cr n
+wr 1 h 52
+cl 1
+sk 2 108
+dr
+cl 2
+cr f
+rd 3 111
+op f
+sk 2 9
+wr 3 w 18
+cl 1
+wr 3 u 146
+op o
+rd 1 86
+rd 3 189
+wr 1 y 139
+cl 1
+op f
+sk 1 144
+sk 1 153
+rd 3 172
+cl 1
+wr 3 z 67
+wr 3 c 142
+sk 3 193
+op e
+op f
+de f
+sk 3 146
+op n
+rd 2 34
+cl 3
+cl 2
+op o
+cr c
+cr b
+wr 1 u 48
+cl 1
+cr d
+wr 2 k 21
+sk 2 31
+de d
+wr 2 b 73
+rd 2 97
+cr b
+rd 2 153
+sk 2 172
+op b
+sk 2 46
+cl 2
+cl 1
+cr i
+op l
+op e
+cr j
+wr 3 y 29
+dr
+cl 1
+rd 2 50
+rd 2 179
+cr f
+sv dump

@@ -77,8 +77,7 @@ class GenTest:
 		# errs 
 		if random() <= self.err:
 			# seek on empty OFT index; might not be error if OFT is full
-			pool = [i for i in range(len(self.OFT)) if self.OFT[i] is None and i != 0]
-			index = sample(pool, 1)[0] if len(pool) > 0 else randint(1, 4)
+			index = self._bad_file_index()
 			return 'sk {} {}'.format(index, randint(0, 192))
 
 		elif len(self.open) > 0:
@@ -90,8 +89,7 @@ class GenTest:
 		# errs 
 		if random() <= self.err:
 			# read on empty OFT index; might not be error if OFT is full
-			pool = [i for i in range(len(self.OFT)) if self.OFT[i] is None and i != 0]
-			index = sample(pool, 1)[0] if len(pool) > 0 else randint(1, 4)
+			index = self._bad_file_index()
 			return 'rd {} {}'.format(index, randint(0, 192))
 
 		# read a random number of bits; may be an invalid read
@@ -105,8 +103,7 @@ class GenTest:
 		# errs 
 		if random() <= self.err:
 			# write on empty OFT index; might not be error if OFT is full
-			pool = [i for i in range(len(self.OFT)) if self.OFT[i] is None and i != 0]
-			index = sample(pool, 1)[0] if len(pool) > 0 else randint(1, 4)
+			index = self._bad_file_index()
 			return 'wr {} {} {}'.format(index, char, randint(0, 192))
 
 		# write a random number of bits; may be an invalid write
@@ -203,7 +200,7 @@ if __name__ == '__main__':
 
 	# command probs
 	commands = ['op', 'cl', 'sk', 'rd', 'wr', 'cr', 'de', 'dr']
-	probs	 = [ .15,   .1,  .00,  .25,  .20,  .20,  .05,  .05]
+	probs	 = [ .1,   .1,  .1,  .25,  .2,  .15,  .05,  .05]
 	commands = dict(zip(commands, probs))
 	
 	# explicit error probs
