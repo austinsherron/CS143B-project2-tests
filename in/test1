@@ -1,0 +1,52 @@
+in
+cr d
+de g
+cr e
+cr a
+de d
+dr
+op e
+cr c
+de e
+op c
+wr 1 p 189
+cr f
+de f
+wr 1 y 62
+wr 1 p 117
+op a
+dr
+rd 2 11
+wr 2 l 108
+cr f
+rd 1 73
+op f
+de c
+cr j
+dr
+op j
+de j
+cl 2
+de f
+cl 2
+op a
+dr
+rd 1 195
+wr 1 b 139
+cl 1
+wr 2 t 17
+cr i
+cr h
+dr
+op h
+wr 1 e 86
+rd 1 47
+rd 1 176
+wr 1 v 23
+wr 1 r 29
+op a
+wr 2 k 53
+dr
+rd 1 197
+cr e
+sv dump

@@ -45,9 +45,9 @@ class GenTest:
 				return 'op ' + sample(self.open, 1)[0]
 
 		# valid
-		elif len(self.open) < self.max_open and len(self.created) > 0:
+		elif len(self.open) < self.max_open and len(self.created - self.open) > 0:
 			# choose non open file
-			file = str(sample(self.files - self.open, 1)[0])
+			file = str(sample(self.created - self.open, 1)[0])
 			# add file to open set
 			self.open.add(file)
 			# add file to OFT
@@ -111,7 +111,7 @@ class GenTest:
 
 		# write a random number of bits; may be an invalid write
 		elif len(self.open) > 0:
-			return 'wr {} {}'.format(self._file_index(), char, randint(0, 200))
+			return 'wr {} {} {}'.format(self._file_index(), char, randint(0, 200))
 
 
 	def gen_cr(self):
@@ -203,7 +203,7 @@ if __name__ == '__main__':
 
 	# command probs
 	commands = ['op', 'cl', 'sk', 'rd', 'wr', 'cr', 'de', 'dr']
-	probs	 = [ .15,   .1,  .15,  .15,  .15,  .15,  .10,  .05]
+	probs	 = [ .15,   .1,  .00,  .25,  .20,  .20,  .05,  .05]
 	commands = dict(zip(commands, probs))
 	
 	# explicit error probs

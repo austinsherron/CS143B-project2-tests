@@ -1,0 +1,52 @@
+disk initialized
+d created
+FileDoesNotExistException
+e created
+a created
+d destroyed
+e a
+e opened 1
+c created
+e destroyed
+c opened 1
+189 bytes written
+f created
+f destroyed
+3 bytes written
+1 bytes written
+a opened 2
+c a
+
+108 bytes written
+f created
+p
+f opened 3
+c destroyed
+j created
+j f a
+j opened 1
+j destroyed
+2 closed
+f destroyed
+ValueError
+a opened 1
+a
+llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+84 bytes written
+1 closed
+ValueError
+i created
+h created
+i h a
+h opened 1
+86 bytes written
+
+
+23 bytes written
+29 bytes written
+a opened 2
+53 bytes written
+i h a
+
+e created
+disk saved
