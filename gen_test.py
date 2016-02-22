@@ -119,7 +119,7 @@ class GenTest:
 			return 'cr {}'.format(file)
 
 		# cr valid file
-		elif len(self.created) < 25:
+		elif len(self.files - self.created) > 0:
 			file = sample(self.files - self.created, 1)[0]
 			self.created.add(file)
 			return 'cr {}'.format(file)
@@ -127,7 +127,7 @@ class GenTest:
 	
 	def gen_de(self):
 		# delete file that doesn't exist
-		if random() < self.err and len(self.created) < 25:
+		if random() < self.err and len(self.files - self.created) > 0:
 			file = sample(self.files - self.created, 1)[0]
 			return 'de {}'.format(file)
 		# delete file that exists, if there are any

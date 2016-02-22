@@ -1,0 +1,39 @@
+disk initialized
+fo created
+fo1 created
+fo2 created
+fo3 created
+fo opened 1
+fo1 opened 2
+fo2 opened 3
+error
+64 bytes written
+167 bytes written
+185 bytes written
+6 bytes written
+1 bytes written
+fo fo1 fo2 fo3 
+fo1 destroyed
+hel created
+oh created
+hel opened 2
+55 bytes written
+position is 0
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+position is 190
+yz
+fo hel fo2 fo3 oh 
+
+
+2 closed
+fo3 opened 2
+disk saved
+disk restored
+fo2 opened 1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxyyyyyyz
+
+position is 2
+12 bytes written
+position is 0
+xxrrrrrrrrrrrrxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

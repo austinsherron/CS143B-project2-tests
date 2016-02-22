@@ -1,0 +1,302 @@
+disk initialized
+g created
+g
+g destroyed
+
+
+i created
+f created
+f opened 1
+1 closed
+n created
+d created
+d opened 1
+
+m created
+
+
+76 bytes written
+n opened 2
+53 bytes written
+error
+
+error
+error
+3 bytes written
+116 bytes written
+a created
+136 bytes written
+position is 94
+position is 191
+1 bytes written
+r created
+r destroyed
+error
+t created
+1 bytes written
+i opened 3
+i destroyed
+position is 159
+t opened 3
+t destroyed
+33 bytes written
+error
+
+g created
+position is 113
+j created
+1 bytes written
+79 bytes written
+
+n destroyed
+error
+
+1 bytes written
+f opened 2
+j opened 3
+1 bytes written
+g f d m a j
+f destroyed
+3 closed
+
+position is 73
+dddsssssssssssssssssssssssss
+91 bytes written
+m destroyed
+
+j opened 2
+error
+a destroyed
+
+n created
+
+m created
+43 bytes written
+1 bytes written
+
+j destroyed
+1 bytes written
+b created
+1 bytes written
+1 closed
+g n m d b
+error
+q created
+g n m d b q
+s created
+u created
+g n m d b q s u
+u destroyed
+m opened 1
+192 bytes written
+
+
+1 bytes written
+s destroyed
+error
+n destroyed
+
+position is 42
+r created
+position is 139
+d destroyed
+g r m b q
+error
+g r m b q
+b destroyed
+1 closed
+w created
+w destroyed
+error
+q destroyed
+g r m
+g opened 1
+error
+149 bytes written
+43 bytes written
+position is 189
+1 closed
+m destroyed
+r opened 1
+g opened 2
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+i created
+i opened 3
+error
+1 closed
+3 closed
+h created
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+71 bytes written
+
+1 bytes written
+
+1 bytes written
+
+1 bytes written
+1 bytes written
+
+2 closed
+g r i h
+c created
+u created
+m created
+b created
+c destroyed
+h opened 1
+r opened 2
+g r i h u m b
+error
+
+
+error
+47 bytes written
+
+error
+
+m destroyed
+
+m created
+145 bytes written
+1 bytes written
+
+error
+1 closed
+t created
+t opened 1
+i destroyed
+position is 147
+error
+
+2 closed
+1 closed
+b destroyed
+error
+g r h m u t
+g r h m u t
+error
+g destroyed
+u opened 1
+error
+1 closed
+r h m u t
+m opened 1
+1 closed
+m opened 1
+1 closed
+t opened 1
+m opened 2
+r h m u t
+2 closed
+d created
+1 closed
+h destroyed
+i created
+d r i m u t
+i destroyed
+k created
+l created
+t opened 1
+173 bytes written
+19 bytes written
+error
+
+1 bytes written
+1 bytes written
+j created
+c created
+
+c opened 2
+j opened 3
+2 closed
+b created
+
+
+37 bytes written
+1 bytes written
+
+r opened 2
+80 bytes written
+112 bytes written
+
+1 bytes written
+1 bytes written
+
+1 closed
+o created
+
+18 bytes written
+error
+position is 163
+
+u opened 1
+ddddddddddddddddddddddddddddo
+2 closed
+d r k l m u t j c b o
+1 closed
+3 closed
+w created
+u opened 1
+error
+
+error
+
+g created
+error
+154 bytes written
+1 closed
+c opened 1
+1 closed
+error
+r destroyed
+g destroyed
+r created
+j opened 1
+121 bytes written
+c opened 2
+2 closed
+
+k opened 2
+
+d r k l m u t j c b o w
+
+error
+g created
+d r k l m u t j c b o w g
+error
+
+s created
+
+d r k l m u t j c b o w g s
+2 closed
+71 bytes written
+d r k l m u t j c b o w g s
+1 bytes written
+1 bytes written
+i created
+
+1 closed
+j opened 1
+b destroyed
+position is 121
+q created
+n created
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwt
+
+
+e created
+position is 115
+v created
+qqqqqqwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+d r k l m u t j c q o w g s i n e v
+wwwwwwwwwt
+1 closed
+d r k l m u t j c q o w g s i n e v
+h created
+a created
+b created
+f created
+l destroyed
+l created
+q destroyed
+disk saved

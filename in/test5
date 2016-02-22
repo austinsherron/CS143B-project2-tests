@@ -1,0 +1,646 @@
+in
+cr a
+cr k
+op k
+wr 1 s 32
+cr i
+de i
+wr 1 k 194
+cr o
+wr 1 e 0
+wr 1 m 79
+rd 1 126
+sk 1 88
+cl 1
+op a
+rd 1 50
+cr e
+sk 1 172
+sk 1 58
+op e
+wr 2 k 28
+rd 1 161
+sk 2 49
+cl 1
+op k
+rd 2 176
+rd 1 135
+op a
+rd 3 159
+cl 3
+cr o
+rd 2 152
+wr 2 w 74
+cl 1
+rd 2 83
+wr 2 x 174
+rd 2 170
+cr k
+rd 2 29
+cr t
+wr 2 e 72
+rd 3 71
+rd 2 129
+cr u
+wr 2 x 76
+sk 2 42
+wr 2 r 113
+cr h
+dr
+sk 2 172
+wr 2 x 119
+sk 2 15
+rd 2 199
+wr 2 h 0
+cr j
+cr v
+sk 2 144
+cr n
+wr 2 q 170
+wr 2 l 17
+cl 2
+cr m
+de a
+cr a
+cr s
+op v
+cr d
+rd 1 109
+cr q
+cr g
+op o
+op a
+wr 3 v 164
+dr
+rd 2 169
+cr l
+cr w
+rd 3 125
+wr 2 p 186
+dr
+wr 1 m 69
+cl 1
+rd 2 28
+dr
+cl 2
+wr 3 g 116
+wr 3 p 135
+wr 3 p 193
+rd 3 170
+cr t
+cl 3
+cr i
+dr
+de l
+op v
+rd 1 70
+rd 1 92
+rd 1 80
+cr l
+rd 1 199
+cr p
+de c
+wr 1 y 29
+wr 1 q 154
+rd 1 185
+cl 1
+dr
+dr
+dr
+cr f
+sk 3 42
+cr c
+cr b
+cr r
+dr
+wr 2 s 80
+dr
+op e
+cr p
+wr 1 o 120
+rd 1 180
+wr 2 n 71
+wr 1 s 175
+rd 1 100
+rd 1 29
+cl 1
+op foo
+de d
+cl 1
+cr d
+dr
+de c
+de m
+cr m
+cr c
+op n
+op j
+cl 2
+cl 1
+de o
+dr
+sk 2 127
+cr o
+rd 2 188
+sk 2 78
+op d
+cl 1
+cl 3
+rd 1 82
+dr
+op j
+dr
+wr 1 f 30
+rd 1 189
+cl 3
+sk 1 131
+wr 1 x 17
+de o
+rd 1 114
+rd 1 124
+de g
+op s
+cr o
+op r
+wr 1 j 80
+rd 3 16
+wr 2 f 193
+sk 1 6
+de t
+cl 1
+wr 3 i 136
+wr 2 q 155
+cl 3
+rd 2 60
+wr 1 u 175
+cr g
+wr 2 d 100
+de p
+cl 1
+rd 2 38
+cr t
+op i
+op l
+rd 1 157
+sk 2 142
+sk 1 198
+cl 2
+sk 1 99
+wr 1 y 170
+rd 3 145
+cl 1
+rd 3 24
+rd 3 199
+sk 3 107
+rd 3 81
+rd 3 75
+de g
+wr 3 v 143
+cr p
+cr g
+wr 3 t 136
+sv dump
+in
+cr m
+cr i
+de i
+cr a
+cr g
+op m
+op g
+wr 1 r 95
+cr k
+cr d
+rd 2 191
+wr 3 u 176
+sk 1 73
+cr f
+cl 1
+rd 2 32
+rd 2 157
+wr 2 w 49
+cl 2
+cr s
+op m
+de d
+sk 1 48
+rd 1 67
+wr 1 z 44
+cl 1
+dr
+op s
+wr 1 r 117
+dr
+sk 1 169
+wr 1 y 195
+rd 1 182
+wr 1 i 164
+sk 1 143
+op g
+cl 2
+de g
+cl 1
+dr
+dr
+cr v
+rd 3 149
+cr h
+cr u
+cr e
+cr s
+dr
+wr 2 d 78
+cr b
+cr c
+op u
+sk 1 58
+dr
+rd 1 156
+wr 1 i 168
+rd 1 48
+wr 1 v 94
+de u
+op h
+rd 1 46
+cl 1
+cr d
+de c
+dr
+wr 1 m 140
+op s
+rd 1 10
+dr
+rd 1 139
+sk 1 72
+sk 1 122
+rd 1 40
+rd 1 72
+rd 1 18
+wr 1 p 70
+sk 1 45
+de b
+cr t
+sk 1 154
+wr 1 j 121
+dr
+dr
+cr l
+de e
+op v
+op l
+cl 3
+rd 1 122
+rd 2 193
+sk 2 141
+cl 2
+wr 1 j 196
+rd 1 6
+cr n
+rd 1 50
+sk 1 46
+rd 1 122
+wr 1 o 36
+sk 1 126
+wr 1 m 194
+wr 1 i 117
+sk 1 87
+de s
+cr o
+dr
+cr s
+op l
+de d
+rd 1 167
+rd 1 175
+cr c
+cr p
+cr i
+cr u
+rd 1 99
+wr 1 k 54
+wr 1 g 105
+rd 1 1
+sk 1 61
+cr h
+op c
+op k
+wr 1 s 47
+rd 1 99
+rd 2 108
+rd 1 113
+rd 3 49
+wr 1 e 2
+cr d
+cr e
+rd 3 1
+dr
+cr r
+wr 3 p 196
+sk 2 119
+cr q
+wr 1 n 134
+rd 3 172
+cl 2
+rd 3 40
+wr 2 s 9
+rd 3 142
+wr 3 t 135
+wr 2 p 104
+wr 1 b 77
+cr b
+cr w
+cl 3
+cr g
+cr j
+cl 2
+sk 1 60
+rd 1 190
+rd 1 188
+sk 1 179
+sk 1 136
+wr 1 j 168
+wr 1 p 188
+cl 1
+op o
+rd 1 167
+sk 1 161
+dr
+rd 1 69
+wr 1 x 106
+cl 1
+op o
+wr 1 x 173
+wr 1 d 100
+sk 2 94
+sk 1 52
+sk 1 51
+sk 1 119
+wr 1 f 141
+rd 1 45
+sk 1 127
+rd 1 200
+dr
+op d
+op l
+op o
+rd 1 86
+rd 2 34
+rd 3 45
+cl 3
+dr
+wr 1 y 57
+rd 1 48
+de d
+wr 3 g 44
+cr d
+wr 1 a 69
+wr 1 r 47
+wr 1 k 88
+wr 1 e 142
+rd 1 129
+rd 1 72
+rd 1 116
+dr
+sv dump
+in
+sk 2 69
+cr g
+op g
+rd 1 9
+wr 1 t 40
+wr 1 v 189
+wr 1 c 132
+rd 1 120
+rd 1 139
+rd 1 17
+cl 1
+op g
+sk 1 45
+wr 1 h 199
+rd 1 139
+rd 1 52
+sk 1 172
+wr 1 f 181
+sk 1 172
+sk 1 163
+sk 1 73
+rd 1 104
+de w
+rd 1 197
+rd 1 174
+wr 1 u 2
+rd 1 129
+wr 1 t 55
+cr f
+sk 1 27
+cl 1
+op f
+cr r
+rd 1 197
+sk 1 6
+wr 3 s 51
+sk 1 178
+cr a
+dr
+rd 1 141
+cl 1
+dr
+op f
+rd 1 12
+op r
+de g
+cl 2
+wr 1 o 129
+dr
+sk 1 143
+rd 1 172
+rd 1 126
+wr 1 n 150
+rd 1 182
+sk 1 4
+sk 1 82
+cl 1
+cr w
+op a
+cl 1
+de e
+op f
+wr 1 j 146
+op r
+cr o
+cr p
+cr n
+cl 1
+dr
+wr 2 a 56
+de w
+sk 2 111
+cr m
+rd 2 39
+wr 2 w 133
+dr
+wr 2 n 13
+wr 2 z 64
+cl 2
+dr
+cr w
+de n
+cr j
+op p
+cl 1
+cr n
+cr h
+op m
+de n
+cl 2
+wr 1 w 43
+dr
+rd 1 141
+cl 1
+op h
+rd 1 0
+wr 1 s 97
+rd 1 93
+rd 1 98
+op w
+wr 1 h 169
+wr 2 y 91
+wr 1 z 28
+op o
+cl 2
+wr 3 b 40
+dr
+op p
+wr 2 z 193
+rd 1 104
+wr 2 k 125
+rd 1 14
+sk 3 130
+rd 1 96
+de h
+wr 2 y 49
+op r
+rd 2 148
+de j
+rd 3 171
+cr a
+wr 2 j 4
+wr 3 e 0
+rd 3 199
+cl 3
+dr
+wr 3 t 78
+wr 1 n 128
+cl 2
+rd 1 191
+cr h
+wr 1 d 73
+wr 1 t 151
+rd 1 124
+cl 1
+op r
+cr n
+wr 1 g 43
+cl 1
+op o
+cl 1
+dr
+cr b
+op m
+rd 1 194
+sk 1 168
+rd 1 43
+rd 1 51
+cl 1
+cr d
+cr q
+op foo
+dr
+de r
+cr c
+de d
+dr
+cr e
+cr v
+de f
+op m
+rd 1 43
+cr s
+wr 1 w 181
+rd 1 145
+rd 1 123
+dr
+rd 1 44
+cr t
+wr 1 a 31
+op q
+cl 2
+rd 1 164
+op e
+de b
+sk 1 84
+wr 1 u 191
+cr b
+dr
+rd 1 3
+cl 1
+cl 2
+de m
+dr
+op o
+op s
+cr l
+rd 1 52
+op l
+wr 3 p 187
+cr i
+wr 2 h 87
+cr r
+cr f
+wr 2 m 57
+rd 2 70
+wr 1 h 191
+cl 1
+de p
+cl 3
+sv dump
+in 
+cr fo
+cr fo1
+cr fo2
+cr fo3
+op fo
+op fo1
+op fo2
+op fo3
+wr 1 x 64
+wr 2 x 167
+wr 3 x 185
+wr 3 y 6
+wr 3 z 10
+dr
+de fo1
+cr hel
+cr oh
+op hel
+wr 2 x 55
+sk 2 0
+rd 2 55
+rd 2 10
+sk 3 190
+rd 3 10
+dr
+rd 3 11
+rd 1 12
+cl 2
+op fo3
+sv disk1.txt
+in disk1.txt
+op fo2
+rd 1 192
+rd 1 7
+sk 1 2
+wr 1 r 12
+sk 1 0
+rd 1 64
+sv dump

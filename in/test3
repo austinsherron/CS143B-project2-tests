@@ -1,0 +1,302 @@
+in
+cr g
+dr
+de g
+dr
+dr
+cr i
+cr f
+op f
+cl 1
+cr n
+cr d
+op d
+rd 1 0
+cr m
+rd 1 30
+rd 1 26
+wr 1 d 76
+op n
+wr 2 b 53
+sk 2 124
+rd 1 34
+sk 1 109
+sk 1 108
+wr 2 d 3
+wr 1 s 124
+cr a
+wr 2 i 194
+sk 1 94
+sk 1 191
+wr 1 p 93
+cr r
+de r
+rd 3 102
+cr t
+wr 1 m 20
+op i
+de i
+sk 2 159
+op t
+de t
+wr 2 i 52
+cr n
+rd 1 100
+cr g
+sk 1 113
+cr j
+wr 2 f 37
+wr 1 a 156
+rd 2 57
+de n
+cl 3
+rd 1 160
+wr 1 f 193
+op f
+op j
+wr 1 b 140
+dr
+de f
+cl 3
+rd 1 146
+sk 1 73
+rd 1 28
+wr 1 g 126
+de m
+rd 1 33
+op j
+rd 3 132
+de a
+rd 1 111
+cr n
+rd 1 95
+cr m
+wr 2 v 43
+wr 1 u 65
+rd 1 176
+de j
+wr 1 b 164
+cr b
+wr 1 g 11
+cl 1
+dr
+cl 2
+cr q
+dr
+cr s
+cr u
+dr
+de u
+op m
+wr 1 x 195
+rd 1 192
+rd 1 144
+wr 1 p 9
+de s
+cl 3
+de n
+rd 1 62
+sk 1 42
+cr r
+sk 1 139
+de d
+dr
+cr m
+dr
+de b
+cl 1
+cr w
+de w
+op foo
+de q
+dr
+op g
+sk 1 167
+wr 1 b 149
+wr 1 f 73
+sk 1 189
+cl 1
+de m
+op r
+op g
+rd 2 86
+cr i
+op i
+sk 3 187
+cl 1
+cl 3
+cr h
+rd 2 35
+wr 2 p 152
+rd 2 98
+wr 2 s 115
+rd 2 16
+wr 2 n 181
+rd 2 148
+wr 2 q 38
+wr 2 h 131
+rd 2 164
+cl 2
+dr
+cr c
+cr u
+cr m
+cr b
+de c
+op h
+op r
+dr
+cr h
+rd 1 50
+rd 1 111
+sk 2 14
+wr 2 g 47
+rd 1 34
+sk 2 181
+rd 2 184
+de m
+rd 2 38
+cr m
+wr 2 x 188
+wr 2 n 55
+rd 2 61
+cl 3
+cl 1
+cr t
+op t
+de i
+sk 2 147
+op foo
+rd 1 70
+cl 2
+cl 1
+de b
+wr 2 n 25
+dr
+dr
+sk 3 159
+de g
+op u
+cl 2
+cl 1
+dr
+op m
+cl 1
+op m
+cl 1
+op t
+op m
+dr
+cl 2
+cr d
+cl 1
+de h
+cr i
+dr
+de i
+cr k
+cr l
+op t
+wr 1 a 173
+wr 1 h 52
+sk 1 196
+rd 1 45
+wr 1 s 133
+wr 1 t 121
+cr j
+cr c
+rd 1 190
+op c
+op j
+cl 2
+cr b
+rd 1 80
+rd 3 134
+wr 3 g 37
+wr 1 j 176
+rd 3 190
+op r
+wr 2 y 80
+wr 2 d 143
+rd 2 49
+wr 2 o 55
+wr 1 z 101
+rd 1 64
+cl 1
+cr o
+rd 3 192
+wr 3 n 18
+rd 1 130
+sk 2 163
+rd 3 197
+op u
+rd 2 193
+cl 2
+dr
+cl 1
+cl 3
+cr w
+op u
+sk 1 56
+rd 1 47
+sk 1 133
+rd 1 73
+cr g
+sk 1 47
+wr 1 x 154
+cl 1
+op c
+cl 1
+rd 2 49
+de r
+de g
+cr r
+op j
+wr 1 q 121
+op c
+cl 2
+rd 1 64
+op k
+rd 1 81
+dr
+rd 1 125
+sk 3 125
+cr g
+dr
+rd 3 66
+rd 2 121
+cr s
+rd 1 156
+dr
+cl 2
+wr 1 w 162
+dr
+wr 1 o 181
+wr 1 t 7
+cr i
+rd 1 169
+cl 1
+op j
+de b
+sk 1 121
+cr q
+cr n
+rd 1 103
+rd 1 126
+rd 1 52
+cr e
+sk 1 115
+cr v
+rd 1 67
+dr
+rd 1 90
+cl 1
+dr
+cr h
+cr a
+cr b
+cr f
+de l
+cr l
+de q
+sv dump

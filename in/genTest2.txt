@@ -1,0 +1,39 @@
+in 
+cr fo
+cr fo1
+cr fo2
+cr fo3
+op fo
+op fo1
+op fo2
+op fo3
+wr 1 x 64
+wr 2 x 167
+wr 3 x 185
+wr 3 y 6
+wr 3 z 10
+dr
+de fo1
+cr hel
+cr oh
+op hel
+wr 2 x 55
+sk 2 0
+rd 2 55
+rd 2 10
+sk 3 190
+rd 3 10
+dr
+rd 3 11
+rd 1 12
+cl 2
+op fo3
+sv disk1.txt
+in disk1.txt
+op fo2
+rd 1 192
+rd 1 7
+sk 1 2
+wr 1 r 12
+sk 1 0
+rd 1 64
