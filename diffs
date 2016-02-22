@@ -1,0 +1,38 @@
+477c477
+< 151 bytes written
+---
+> error
+485c485
+< 143 bytes written
+---
+> error
+497,499c497,499
+< 124 bytes written
+< position is 142
+< eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+---
+> error
+> error
+> 
+864c864
+< position is 140
+---
+> error
+866,867c866,867
+< position is 189
+< tiz
+---
+> error
+> 
+869,871c869,871
+< kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+< 3 bytes written
+< 1 bytes written
+---
+> kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkktttttttttttttttttttttt
+> 24 bytes written
+> 23 bytes written
+1000c1000
+< 152 bytes written
+---
+> error
